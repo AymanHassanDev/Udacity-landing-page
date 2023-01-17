@@ -18,7 +18,7 @@ This Project is about building Navigation Bar for Landing Page Dynamically using
 * [Instructions](#instructions)
 * [Technologies used](#Technologies-used)
 * [Dependencies](#Dependencies)
-* [Author's name](#Author's-name)
+* [Author's name](#Author(')s-name)
 * [Credits](#Credits)
 
 
@@ -112,7 +112,7 @@ After The Installation you can now use the project files by UnZip the file and o
 
 ---
 
-# Author(')s name
+# Author's name
 
 [(Back to top)](#table-of-contents)
 
