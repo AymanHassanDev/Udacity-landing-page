@@ -14,12 +14,12 @@ This Project is about building Navigation Bar for Landing Page Dynamically using
 
 ## Table of Contents
 
-* [Project description](#Project)
+* [Project description](#Project-description)
 * [Instructions](#instructions)
-* [Technologies used](#Technologies)
+* [Technologies used](#Technologies-used)
 * [Dependencies](#Dependencies)
-* [Author's name](#Author's)
-* [Credits]
+* [Author's name](#Author's-name)
+* [Credits](#Credits)
 
 
 ---
@@ -118,3 +118,13 @@ After The Installation you can now use the project files by UnZip the file and o
 
 
 **© Udacity - Modified By Ayman Hassan Ismail .**
+
+---
+
+
+# Credits
+
+[(Back to top)](#table-of-contents)
+
+
+This project exists thanks to EGFWD.
