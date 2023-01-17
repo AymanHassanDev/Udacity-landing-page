@@ -18,7 +18,7 @@ This Project is about building Navigation Bar for Landing Page Dynamically using
 * [Instructions](#instructions)
 * [Technologies used](#Technologies-used)
 * [Dependencies](#Dependencies)
-* [Author's name](#Author(')s-name)
+* [Author's name](#Author's-name)
 * [Credits](#Credits)
 
 
