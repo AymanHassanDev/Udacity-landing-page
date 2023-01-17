@@ -112,7 +112,7 @@ After The Installation you can now use the project files by UnZip the file and o
 
 ---
 
-# Author's name
+# Author\'s name
 
 [(Back to top)](#table-of-contents)
 
