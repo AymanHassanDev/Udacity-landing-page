@@ -4,10 +4,11 @@
 
 # Udacity | Landing Page Project
 
-**Version 1.0.0**
 
 This Project is about building Navigation Bar for Landing Page Dynamically using JavaScript .
 
+
+**Version 1.0.0**
 
 ---
 
@@ -18,7 +19,7 @@ This Project is about building Navigation Bar for Landing Page Dynamically using
 * [Instructions](#instructions)
 * [Technologies used](#Technologies-used)
 * [Dependencies](#Dependencies)
-* [Author's name](#Author\'s-name)
+* [Author's name](#Author)
 * [Credits](#Credits)
 
 
@@ -104,6 +105,7 @@ After The Installation you can now use the project files by UnZip the file and o
 
 ---
 
+
 # Dependencies
 
 [(Back to top)](#table-of-contents)
@@ -112,7 +114,8 @@ After The Installation you can now use the project files by UnZip the file and o
 
 ---
 
-# Author's name
+
+# Author
 
 [(Back to top)](#table-of-contents)
 
